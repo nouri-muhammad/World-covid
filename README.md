@@ -9,5 +9,6 @@ The project consists of a few steps:
 6. Creating the file to run the process of creating visuals 
 
 # Note:
-1. The first four stages should be done independently
-2. The project was run in Ubuntu OS, thus if you use a different OS, it is necessary to make some changes including the file's location addresses in the first four steps
+1. The dataset is too large (cannot be updated here) check the above mentioned website and search for covid dataset to find the data.
+2. The first four stages should be done independently
+3. The project was run in Ubuntu OS, thus if you use a different OS, it is necessary to make some changes including the file's location addresses in the first four steps
